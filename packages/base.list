@@ -1,0 +1,19 @@
+# Deokjil OS 기본 패키지 (apt). 줄당 하나, '#'로 주석.
+# 사용자가 자유롭게 추가/삭제하세요.
+
+# --- 커스터마이징 도구 ---
+gnome-tweaks
+gnome-shell-extension-manager
+
+# --- 아이콘/테마 (예시) ---
+papirus-icon-theme
+
+# --- 폰트 (한/일 글자 깨짐 방지) ---
+fonts-noto-cjk
+fonts-noto-color-emoji
+
+# --- 미디어/덕질 친화 앱 ---
+mpv
+
+# --- 기타 편의 ---
+neofetch
