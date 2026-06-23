@@ -45,4 +45,4 @@ cp config/default.conf ~/.config/deokjil/user.conf
 
 ## 상태
 
-🚧 초기 스캐폴딩 — 커스터마이징 툴킷(1층) 개발 중.
+초기 스캐폴딩 — 커스터마이징 툴킷(1층) 개발 중.

@@ -35,7 +35,7 @@ brew install --cask utm
 - **안정/검증된 대안: Ubuntu 24.04.3 LTS ARM64 데스크톱**
   → 직접 링크: `https://cdimage.ubuntu.com/releases/24.04.3/release/ubuntu-24.04.3-desktop-arm64.iso`
 
-> ⚠️ 반드시 **ARM64(aarch64)** 이미지를 받으세요. amd64(x86) 이미지는 애플 실리콘에서 느린 에뮬레이션이 돼요.
+> ️ 반드시 **ARM64(aarch64)** 이미지를 받으세요. amd64(x86) 이미지는 애플 실리콘에서 느린 에뮬레이션이 돼요.
 
 ---
 
